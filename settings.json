@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mohammadz1.aternos.me",
+    "ip": "mohammadz1.aternos.me:33808",
     "port": 33808,
     "version": "",
     "try-creative": false
